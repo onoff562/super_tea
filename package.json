@@ -1,0 +1,26 @@
+{
+  "name": "super_tea",
+  "version": "0.0.1",
+  "description": "Just a dummy tea",
+  "scripts": {
+    "test": "Advance math package"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onoff562/super-tea"
+  },
+  "dependencies": {
+    "advance_math": "^0.0.1"
+  },
+  "keywords": [
+    "tea",
+    "node",
+    "js"
+  ],
+  "author": "onoff562",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onoff562/super-tea/issues"
+  },
+  "homepage": "https://github.com/onoff562/super-tea#readme"
+}
