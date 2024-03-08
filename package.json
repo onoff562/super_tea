@@ -2,8 +2,9 @@
   "name": "super_tea",
   "version": "0.0.1",
   "description": "Just a dummy tea",
+  "main": "bin/main.js",
   "scripts": {
-    "test": "Advance math package"
+    "test": "Super tea package"
   },
   "repository": {
     "type": "git",
