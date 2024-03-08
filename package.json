@@ -1,6 +1,6 @@
 {
   "name": "super_tea",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Just a dummy tea",
   "main": "bin/main.js",
   "scripts": {
